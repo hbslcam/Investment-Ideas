@@ -1,2 +1,2 @@
 # Investment-Ideas
-This is where all my investment strategies and ideas are stored.
+Here you can find all of my investment ideas. 
